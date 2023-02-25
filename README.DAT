@@ -1,5 +1,8 @@
 # loanDefault
 
+FINAL MODEL: XGBoost Classifier
+FINAL TEST ACCURACY: 0.9733 accuracy
+
 
 Data Features:
 
